@@ -1,0 +1,79 @@
+[
+    {
+        "name": "crud-core",
+        "url": "git@github.com:manuelhoyoestevez/crud-core.git",
+        "branch": "main"
+    },
+    {
+        "name": "crud-spring5",
+        "url": "git@github.com:manuelhoyoestevez/crud-spring5.git",
+        "branch": "main"
+    },
+    {
+        "name": "crud-codegen",
+        "url": "git@github.com:manuelhoyoestevez/crud-codegen.git",
+        "branch": "main"
+    },
+    {
+        "name": "request-core",
+        "url": "git@github.com:manuelhoyoestevez/request-core.git",
+        "branch": "main"
+    },
+    {
+        "name": "request-spring5",
+        "url": "git@github.com:manuelhoyoestevez/request-spring5.git",
+        "branch": "main"
+    },
+    {
+        "name": "openapi-invoker-core",
+        "url": "git@github.com:manuelhoyoestevez/openapi-invoker-core.git",
+        "branch": "main"
+    },
+    {
+        "name": "openapi-invoker-builder",
+        "url": "git@github.com:manuelhoyoestevez/openapi-invoker-builder.git",
+        "branch": "main"
+    },
+    {
+        "name": "openapi-invoker-oauth-scribejava",
+        "url": "git@github.com:manuelhoyoestevez/openapi-invoker-oauth-scribejava.git",
+        "branch": "main"
+    },
+    {
+        "name": "openapi-invoker-example",
+        "url": "git@github.com:manuelhoyoestevez/openapi-invoker-example.git",
+        "branch": "main"
+    },
+    {
+        "name": "openapi-firewall-core",
+        "url": "git@github.com:manuelhoyoestevez/openapi-firewall-core.git",
+        "branch": "main"
+    },
+    {
+        "name": "openapi-firewall-io-swagger",
+        "url": "git@github.com:manuelhoyoestevez/openapi-firewall-io-swagger.git",
+        "branch": "main"
+    },
+    {
+        "name": "key-tools",
+        "url": "git@github.com:manuelhoyoestevez/key-tools.git",
+        "branch": "main"
+    },
+    {
+        "name": "key-tools-bc-jdk15on-generator",
+        "url": "git@github.com:manuelhoyoestevez/key-tools-bc-jdk15on-generator.git",
+        "branch": "main"
+    },
+    {
+        "name": "sheet-lib",
+        "url": "git@github.com:manuelhoyoestevez/sheet-lib.git",
+        "branch": "main",
+        "modules": [
+            "core",
+            "csv",
+            "excel",
+            "jackson",
+            "tests"
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[submodule "crud-core"]
+	path = crud-core
+	url = git@github.com:manuelhoyoestevez/crud-core.git
+	branch = main
+[submodule "crud-spring5"]
+	path = crud-spring5
+	url = git@github.com:manuelhoyoestevez/crud-spring5.git
+	branch = main
+[submodule "crud-codegen"]
+	path = crud-codegen
+	url = git@github.com:manuelhoyoestevez/crud-codegen.git
+	branch = main
+[submodule "request-core"]
+	path = request-core
+	url = git@github.com:manuelhoyoestevez/request-core.git
+	branch = main
+[submodule "request-spring5"]
+	path = request-spring5
+	url = git@github.com:manuelhoyoestevez/request-spring5.git
+	branch = main
+[submodule "openapi-invoker-core"]
+	path = openapi-invoker-core
+	url = git@github.com:manuelhoyoestevez/openapi-invoker-core.git
+	branch = main
+[submodule "openapi-invoker-builder"]
+	path = openapi-invoker-builder
+	url = git@github.com:manuelhoyoestevez/openapi-invoker-builder.git
+	branch = main
+[submodule "openapi-invoker-oauth-scribejava"]
+	path = openapi-invoker-oauth-scribejava
+	url = git@github.com:manuelhoyoestevez/openapi-invoker-oauth-scribejava.git
+	branch = main
+[submodule "openapi-invoker-example"]
+	path = openapi-invoker-example
+	url = git@github.com:manuelhoyoestevez/openapi-invoker-example.git
+	branch = main
+[submodule "openapi-firewall-core"]
+	path = openapi-firewall-core
+	url = git@github.com:manuelhoyoestevez/openapi-firewall-core.git
+	branch = main
+[submodule "openapi-firewall-io-swagger"]
+	path = openapi-firewall-io-swagger
+	url = git@github.com:manuelhoyoestevez/openapi-firewall-io-swagger.git
+	branch = main
+[submodule "key-tools"]
+	path = key-tools
+	url = git@github.com:manuelhoyoestevez/key-tools.git
+	branch = main
+[submodule "key-tools-bc-jdk15on-generator"]
+	path = key-tools-bc-jdk15on-generator
+	url = git@github.com:manuelhoyoestevez/key-tools-bc-jdk15on-generator.git
+	branch = main
+[submodule "sheet-lib"]
+	path = sheet-lib
+	url = git@github.com:manuelhoyoestevez/sheet-lib.git
+	branch = main
