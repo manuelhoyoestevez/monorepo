@@ -54,3 +54,6 @@
 	path = sheet-lib
 	url = git@github.com:manuelhoyoestevez/sheet-lib.git
 	branch = main
+[submodule "socket-proxy"]
+	path = socket-proxy
+	url = git@github.com:manuelhoyoestevez/socket-proxy.git

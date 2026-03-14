@@ -8,7 +8,7 @@
     <artifactId>monorepo</artifactId>
     <name>monorepo</name>
     <description>Monorepo</description>
-    <version>0.0.0</version>
+    <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -32,8 +32,21 @@
         <module>openapi-firewall-io-swagger</module>
         <module>key-tools</module>
         <module>key-tools-bc-jdk15on-generator</module>
-    </modules>
+        <module>sheet-lib/core</module>
+        <module>sheet-lib/csv</module>
+        <module>sheet-lib/excel</module>
+        <module>sheet-lib/jackson</module>
+        <module>sheet-lib/tests</module>
 
+        <module>socket-proxy/socketproxy-router</module>
+        <module>socket-proxy/socketproxy-tunnels</module>
+        <module>socket-proxy/socketproxy-agent-model</module>
+        <module>socket-proxy/socketproxy-agent-simple</module>
+        <module>socket-proxy/socketproxy-agent-tree</module>
+        <module>socket-proxy/socketproxy-agent-root</module>
+        <module>socket-proxy/socketproxy-backend-server</module>
+        <module>socket-proxy/socketproxy-agent-all</module>
+    </modules>
 
     <build>
         <plugins>
